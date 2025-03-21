@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jp3lnf9cy-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jp3lnf9cy-nodejs
